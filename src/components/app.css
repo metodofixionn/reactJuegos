@@ -1,0 +1,7 @@
+.containerMain{
+    background-image: url(../../public/img/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}

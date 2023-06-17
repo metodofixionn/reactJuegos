@@ -1,0 +1,21 @@
+
+.cart{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    width: 50%;
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.61);
+    padding: 10px;
+    border: 2px solid rgb(41, 158, 6);;
+}
+.btnBorrar{
+    border: none;
+    background-color: #fff;
+}
+.h5Total{
+    
+    text-shadow: 3px 3px  5px rgb(255, 0, 0);
+}
